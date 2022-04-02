@@ -1,0 +1,15 @@
+{
+   "firstName": "Orvala Azzurri",
+   "lastName": "Madhyastha",
+   "gender": "male",
+   "age": 19,
+   "address": {
+       "streetAddress": "Karang Tengah",
+       "city": "Tangerang",
+       "state": "Banten"
+   },
+   "courses": [
+       { "code": "CRI2C4", "name": "Konstruksi Perangkat Lunak" },
+       { "code": "CRI2XX", "name": "Nama Mata Kuliah" }
+   ]
+}

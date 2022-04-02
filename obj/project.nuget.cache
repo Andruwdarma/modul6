@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "tio1IuiVEXpqKhqr4XB5CwCLpCnGdhn0bjY5L4aRbTVWEJaYfJdS4ibhKEsP1eJCyA44ydwDLUDVtaeglqXd3A==",
+  "dgSpecHash": "T44xvmVuR7WNfPsO5gYOCIBxMjKiR5HVl1ygnU4FnqQqute3cYRRdn0VqfbcrNPUN8Lslyh8qt8Zf1VUghTnpA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Andrw\\source\\modul6_kelompok_6PM\\modul6_kelompok_6PM.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\orval\\Documents\\Kuliah\\KPL\\modul6\\modul6_kelompok_6PM.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\orval\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
   "logs": []
 }
