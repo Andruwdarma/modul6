@@ -14,7 +14,7 @@ namespace modul6_kelompok_6PM
         {
             string dataStr = File.ReadAllText(@"C:\Users\orval\Documents\Kuliah\KPL\modul6\jurnal6_1_1302204105.json");
             dynamic data = JsonConvert.DeserializeObject(dataStr);
-
+            Console.WriteLine("JSON 1");
             Console.WriteLine("NAMA             : " + data.firstName + " " + data.lastName);
             Console.WriteLine("Jenis Kelamin    : " + data.gender);
             Console.WriteLine("USIA             : " + data.age);
