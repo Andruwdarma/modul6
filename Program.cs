@@ -8,6 +8,8 @@
             mahasiswa.ReadJSON();
             TeamMembers1302204105 tim = new TeamMembers1302204105();
             tim.ReadJSON();
+            GlossaryItem1302204105 gloss = new GlossaryItem1302204105();
+            gloss.ReadJSON();
         }
     }
 }
