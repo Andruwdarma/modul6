@@ -1,0 +1,32 @@
+{
+  "members" : [
+    {
+       "firstName": "Aditya Nur",
+       "lastName": "Hidayatullah",
+       "gender": "male",
+       "age": 20,
+       "nim": "1302204078"
+    },
+    {
+       "firstName": "Andruw",
+       "lastName": "Darma",
+       "gender": "male",
+       "age": 20,
+       "nim": "1302200049"
+    },
+    {
+      "firstName": "Ghozal Imam",
+      "lastName": "Perdana",
+      "gender": "male",
+      "age": 20,
+      "nim": "1302204063"
+    },
+    {
+      "firstName": "Orvala Azzurri",
+      "lastName": "Madhyastha",
+      "gender": "male",
+      "age": 20,
+      "nim": "1302204105"
+    }
+  ]
+}
