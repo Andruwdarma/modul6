@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "C:\\Users\\orval\\Documents\\Kuliah\\KPL\\modul6\\modul6_kelompok_6PM.csproj": {}
   },
   "projects": {
@@ -15,6 +16,22 @@
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\orval\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+    "F:\\kuliah\\KPL PRAKTIKUM\\modul6\\modul6_kelompok_6PM.csproj": {}
+  },
+  "projects": {
+    "F:\\kuliah\\KPL PRAKTIKUM\\modul6\\modul6_kelompok_6PM.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\kuliah\\KPL PRAKTIKUM\\modul6\\modul6_kelompok_6PM.csproj",
+        "projectName": "modul6_kelompok_6PM",
+        "projectPath": "F:\\kuliah\\KPL PRAKTIKUM\\modul6\\modul6_kelompok_6PM.csproj",
+        "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
+        "outputPath": "F:\\kuliah\\KPL PRAKTIKUM\\modul6\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> a449d80ab21e94d6d65c1bfe63472c5ce88ccf35
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -60,7 +77,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
