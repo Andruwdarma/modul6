@@ -1,2 +1,15 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿namespace modul6_kelompok_6PM
+{
+    internal class Program
+    {
+        public static void Main(string[] args)
+        {
+            DataMahasiswa1302204105 mahasiswa = new DataMahasiswa1302204105();
+            mahasiswa.ReadJSON();
+            TeamMembers1302204105 tim = new TeamMembers1302204105();
+            tim.ReadJSON();
+            GlossaryItem1302204105 gloss = new GlossaryItem1302204105();
+            gloss.ReadJSON();
+        }
+    }
+}

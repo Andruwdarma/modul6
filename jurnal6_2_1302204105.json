@@ -1,0 +1,46 @@
+{
+  "members": [
+    {
+      "firstName": "Orvala",
+      "lastName": "Azzurri",
+      "gender": "male",
+      "age": 20,
+      "nim": "01"
+    },
+    {
+      "firstName": "James",
+      "lastName": "Smith",
+      "gender": "male",
+      "age": 32,
+      "nim": "02"
+    },
+    {
+      "firstName": "Gojal",
+      "lastName": "Imam",
+      "gender": "male",
+      "age": 20,
+      "nim": "03"
+    },
+    {
+      "firstName": "Andruw",
+      "lastName": "Darma",
+      "gender": "male",
+      "age": 20,
+      "nim": "04"
+    },
+    {
+      "firstName": "Adit",
+      "lastName": "Hidayat",
+      "gender": "male",
+      "age": 20,
+      "nim": "05"
+    },
+    {
+      "firstName": "Zarvah",
+      "lastName": "Nopal",
+      "gender": "male",
+      "age": 20,
+      "nim": "06"
+    }
+  ]
+}
